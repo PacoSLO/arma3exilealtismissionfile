@@ -1,4 +1,5 @@
-Here is my mission file from my Arma 3 Exile Altis server.
+# Mission file for Arma 3 Exile Altis
+I created and was running this mission file on our community servers.
 
 **FEATURES:**
 ```
@@ -34,8 +35,3 @@ Abandon Territory On Flag
 3H Restart Scheduled
 R3F Logistics
 shipwrecks loot crates, helicrashes, shield crates
-and much more...
-
-Feel free to join our community.
-
-*BaDBoYs since 2006!*
