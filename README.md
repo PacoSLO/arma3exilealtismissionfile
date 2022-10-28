@@ -1,5 +1,5 @@
 # Mission file for Arma 3 Exile Altis
-I created and was running this mission file on our community servers.
+I created and was running this mission file on our community server.
 
 **FEATURES:**
 ```
