@@ -3,9 +3,11 @@
 I created and was running this mission file on our community server.
 
 **Installation**
-Put the mission file in the Arma 3 MPmissions Folder.
+------------------
+Put the mission file in the Arma 3 MPmissions Folder. But the @exileserver needs to be configured for the mission to work properly.
 
 **Features**
+------------------
 ```
 Quad spawn/pack
 Jet-Ski spawn/pack
@@ -39,3 +41,7 @@ Abandon Territory On Flag
 3H Restart Scheduled
 R3F Logistics
 shipwrecks loot crates, helicrashes, shield crates
+```
+**Credits**
+------------------
+I just created a mission file with on internet avalible scripts. I do not own nothing here. So if some owner want's something to be removed, Contact me.
