@@ -2,10 +2,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pacoslo&label=Profile%20views&color=0e75b6&style=flat" alt="pacoslo" /> </p>
 I created and was running this mission file on our community server.
 
-#Installation
+**Installation**
 Put the mission file in the Arma 3 MPmissions Folder.
 
-#Features
+**Features**
 ```
 Quad spawn/pack
 Jet-Ski spawn/pack
