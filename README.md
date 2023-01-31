@@ -1,7 +1,11 @@
-# Mission file for Arma 3 Exile Altis
+# Arma 3 Exile Altis Mission File
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pacoslo&label=Profile%20views&color=0e75b6&style=flat" alt="pacoslo" /> </p>
 I created and was running this mission file on our community server.
 
-**FEATURES:**
+#Installation
+Put the mission file in the Arma 3 MPmissions Folder.
+
+#Features
 ```
 Quad spawn/pack
 Jet-Ski spawn/pack
